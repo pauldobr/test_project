@@ -4,18 +4,9 @@ a{
 }
 
 div{
-  color:#0764fa;  
+  color: darkorange;  
 }
-#moya_ssilka{
-  font-size: 30px;
-  color: rgb(241, 16, 16);
-}
-.human {
-  color:#4831E1;
-}
-.animmal{
-  color: #C4F034;
-}
-  
+body{
+  background-image: url(images/1.jpg);
 
-
+}
