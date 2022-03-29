@@ -1,10 +1,11 @@
 a{
  color: rgba(100, 0, 8, 0.966);
- font-size: 30px; 
+ font-size: 30px;
+ background-color: azure;
 }
 
-div{
-  color: darkorange;  
+.container{
+  float: right;
 }
 body{
   background-image: url(images/1.jpg);
